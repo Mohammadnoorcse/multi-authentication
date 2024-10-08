@@ -1,0 +1,7 @@
+1.user table setup with add role column
+2. guard and provider add (confiq/auth.php)
+3.create of two middleware file
+4.create Login controller file
+5.create login view file 
+6.create login controller file
+
