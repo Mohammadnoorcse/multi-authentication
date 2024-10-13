@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Validator;
 
 class AdminLoginController extends Controller
 {
-    //this method will show admin login page/screen
+    //this method will show admin login page/screen noor
     public function index(){
         return view('admin.adminLogin');
     }
